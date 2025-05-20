@@ -7,8 +7,7 @@
 
 <div align='center'>
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com?user=GiseleBCSantos&theme=cobalt&mode=weekly&background=483285)](https://git.io/streak-stats" alt="GiseleBCSantos" width="401" /> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=GiseleBCSantos&theme=cobalt&mode=weekly&background=1B364B" alt="GitHub Streak" width='400'/>
-    <img src="https://github-readme-stats.vercel.app/api?username=GiseleBCSantos&show_icons=true&locale=en&theme=cobalt" alt="gabrfelps" width="380" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GiseleBCSantos&show_icons=true&locale=en&theme=cobalt" alt="giselebcsantos" width="380" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiseleBCSantos&show_icons=true&locale=en&layout=compact&theme=cobalt" style="position: relative;left: 100px;" alt="gabrfelps" width="300">
 </div>
 
